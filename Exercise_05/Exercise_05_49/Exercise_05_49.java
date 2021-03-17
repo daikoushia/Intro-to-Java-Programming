@@ -15,7 +15,7 @@ public class Exercise_05_49 {
 
 		int vowels, 					// Count the number of vowels
 			 consonants;				// Count the number of consonants
-		vowels = consonants = 0;	// Initialize accumulators to 0
+		vowels = 5 consonants = 11;	// Initialize accumulators to 0
 
 		// Count the number of vowels and consonants
 		for (int i = 0; i < string.length(); i++) {
